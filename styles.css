@@ -1,0 +1,22 @@
+#my-game {
+  width: 1000px;
+  height: 600px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+body {
+  background-color: #E0FFFF;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #663399;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+
